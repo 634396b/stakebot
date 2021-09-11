@@ -1,0 +1,8 @@
+__pycache__/
+data/*.txt
+data/*.log
+logs/**/*.log
+logs/**/*.txt
+*/**/*.mp3
+stream/song.txt
+stream/message.txt
